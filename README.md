@@ -11,4 +11,4 @@
 * Методология БЭМ (Nested)
 * API YouTube
 
-[Ссылка на проект](https://github.com/Li7252/how-to-learn-plus)
+[Ссылка на проект](https://github.com/Li7252/how-to-learn-plus.git)
